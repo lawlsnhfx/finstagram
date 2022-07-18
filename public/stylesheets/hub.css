@@ -1,0 +1,16 @@
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+}
+body {
+    background-color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+}
+main{
+    background-color: white;
+    padding: 16px;
+}
+h1{
+    color:aqua;
+    text-align: center;
+}
